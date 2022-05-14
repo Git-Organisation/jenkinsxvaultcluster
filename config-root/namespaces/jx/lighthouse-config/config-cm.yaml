@@ -41,7 +41,7 @@ data:
         - needs-rebase
         repos:
         - Git-Organisation/jenkinsxvaultcluster
-      target_url: http://lighthouse-jx./merge/status
+      target_url: http://lighthouse-jx.34.72.112.17.nip.io/merge/status
 kind: ConfigMap
 metadata:
   creationTimestamp: null
